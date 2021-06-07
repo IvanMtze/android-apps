@@ -47,13 +47,13 @@
             android:id="@+id/btnAddDept"
             android:layout_width="match_parent"
             android:layout_height="42dp"
-            android:text="Button" />
+            android:text="Add depto" />
 
         <Button
             android:id="@+id/btnGetDept"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="RECARGAR DEPTO" />
 
         <ListView
             android:id="@+id/listGetDeptList"
